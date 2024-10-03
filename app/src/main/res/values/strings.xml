@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Nitrix Test Task</string>
+    <string name="your_videos">Your Videos</string>
+    <string name="thumbnail_error">Couldn\'t load the thumbnail =(</string>
+</resources>
